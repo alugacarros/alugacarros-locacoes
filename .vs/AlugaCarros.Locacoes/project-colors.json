@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "645ba7ae-d7ac-4924-9ec5-f533249f1266": {
+      "ProjectGuid": "645ba7ae-d7ac-4924-9ec5-f533249f1266",
+      "DisplayName": "AlugaCarros.Locacoes.Api",
+      "ColorIndex": 0
+    },
+    "2af20653-a008-4b73-9bb3-fb7d95909266": {
+      "ProjectGuid": "2af20653-a008-4b73-9bb3-fb7d95909266",
+      "DisplayName": "AlugaCarros.Locacoes.Domain",
+      "ColorIndex": 1
+    },
+    "e2d51b96-85ce-4171-b8e6-692e5c8a43d1": {
+      "ProjectGuid": "e2d51b96-85ce-4171-b8e6-692e5c8a43d1",
+      "DisplayName": "AlugaCarros.Locacoes.Infra",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5cecb440-a823-4586-8248-d705ff306b28": {
+      "ProjectGuid": "5cecb440-a823-4586-8248-d705ff306b28",
+      "DisplayName": "AlugaCarros.Locacoes.Functions",
+      "ColorIndex": 3
+    },
+    "603ad2c0-d9ab-45e6-a554-ac01e52fd998": {
+      "ProjectGuid": "603ad2c0-d9ab-45e6-a554-ac01e52fd998",
+      "DisplayName": "FunctionApp1",
+      "ColorIndex": 4
+    },
+    "d1132ef9-a24b-475c-8602-db8328bac2fd": {
+      "ProjectGuid": "d1132ef9-a24b-475c-8602-db8328bac2fd",
+      "DisplayName": "FunctionApp2",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

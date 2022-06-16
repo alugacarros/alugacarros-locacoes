@@ -1,0 +1,17 @@
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\bin\Debug\net6.0\AlugaCarros.Locacoes.Infra.deps.json
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\bin\Debug\net6.0\AlugaCarros.Locacoes.Infra.runtimeconfig.json
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\bin\Debug\net6.0\AlugaCarros.Locacoes.Infra.dll
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\bin\Debug\net6.0\ref\AlugaCarros.Locacoes.Infra.dll
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\bin\Debug\net6.0\AlugaCarros.Locacoes.Infra.pdb
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\bin\Debug\net6.0\AlugaCarros.Locacoes.Domain.dll
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\bin\Debug\net6.0\AlugaCarros.Locacoes.Domain.pdb
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\obj\Debug\net6.0\AlugaCarros.Locacoes.Infra.csproj.AssemblyReference.cache
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\obj\Debug\net6.0\AlugaCarros.Locacoes.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\obj\Debug\net6.0\AlugaCarros.Locacoes.Infra.AssemblyInfoInputs.cache
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\obj\Debug\net6.0\AlugaCarros.Locacoes.Infra.AssemblyInfo.cs
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\obj\Debug\net6.0\AlugaCarros.Locacoes.Infra.csproj.CoreCompileInputs.cache
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\obj\Debug\net6.0\AlugaCarros.Locacoes.Infra.csproj.CopyComplete
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\obj\Debug\net6.0\AlugaCarros.Locacoes.Infra.dll
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\obj\Debug\net6.0\ref\AlugaCarros.Locacoes.Infra.dll
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\obj\Debug\net6.0\AlugaCarros.Locacoes.Infra.pdb
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Infra\obj\Debug\net6.0\AlugaCarros.Locacoes.Infra.genruntimeconfig.cache

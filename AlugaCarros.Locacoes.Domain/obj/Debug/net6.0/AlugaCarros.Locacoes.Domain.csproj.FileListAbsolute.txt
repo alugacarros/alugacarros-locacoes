@@ -1,0 +1,11 @@
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Domain\bin\Debug\net6.0\AlugaCarros.Locacoes.Domain.deps.json
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Domain\bin\Debug\net6.0\AlugaCarros.Locacoes.Domain.dll
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Domain\bin\Debug\net6.0\ref\AlugaCarros.Locacoes.Domain.dll
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Domain\bin\Debug\net6.0\AlugaCarros.Locacoes.Domain.pdb
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Domain\obj\Debug\net6.0\AlugaCarros.Locacoes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Domain\obj\Debug\net6.0\AlugaCarros.Locacoes.Domain.AssemblyInfoInputs.cache
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Domain\obj\Debug\net6.0\AlugaCarros.Locacoes.Domain.AssemblyInfo.cs
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Domain\obj\Debug\net6.0\AlugaCarros.Locacoes.Domain.csproj.CoreCompileInputs.cache
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Domain\obj\Debug\net6.0\AlugaCarros.Locacoes.Domain.dll
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Domain\obj\Debug\net6.0\ref\AlugaCarros.Locacoes.Domain.dll
+C:\dev\AlugaCarros\AlugaCarros.Locacoes\AlugaCarros.Locacoes\AlugaCarros.Locacoes.Domain\obj\Debug\net6.0\AlugaCarros.Locacoes.Domain.pdb

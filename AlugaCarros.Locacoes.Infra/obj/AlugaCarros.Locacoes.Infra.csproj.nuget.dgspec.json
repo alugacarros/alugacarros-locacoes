@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\AlugaCarros\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes.Infra\\AlugaCarros.Locacoes.Infra.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\AlugaCarros\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes.Domain\\AlugaCarros.Locacoes.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\AlugaCarros\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes.Domain\\AlugaCarros.Locacoes.Domain.csproj",
+        "projectName": "AlugaCarros.Locacoes.Domain",
+        "projectPath": "C:\\dev\\AlugaCarros\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes.Domain\\AlugaCarros.Locacoes.Domain.csproj",
+        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\AlugaCarros\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\NugetServer": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AlugaCarros.BalcaoAtendimento.Core": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Azure.Messaging.ServiceBus": {
+              "target": "Package",
+              "version": "[7.8.1, )"
+            },
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
+            "Microsoft.Azure.ServiceBus": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\dev\\AlugaCarros\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes.Infra\\AlugaCarros.Locacoes.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\AlugaCarros\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes.Infra\\AlugaCarros.Locacoes.Infra.csproj",
+        "projectName": "AlugaCarros.Locacoes.Infra",
+        "projectPath": "C:\\dev\\AlugaCarros\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes.Infra\\AlugaCarros.Locacoes.Infra.csproj",
+        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\AlugaCarros\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\NugetServer": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\dev\\AlugaCarros\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes.Domain\\AlugaCarros.Locacoes.Domain.csproj": {
+                "projectPath": "C:\\dev\\AlugaCarros\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes\\AlugaCarros.Locacoes.Domain\\AlugaCarros.Locacoes.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Bogus": {
+              "target": "Package",
+              "version": "[34.0.2, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.5, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
